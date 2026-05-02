@@ -17,9 +17,8 @@ Os testes utilizam a variável de ambiente `BASE_URL`, permitindo executar os ce
 
 ## 📁 Estrutura do Repositório
 
-.
 ├── config/
-│   ├── config/
+│   ├── config.js
 │
 ├── fixtures/
 │   └── postLogin.js
